@@ -1,0 +1,182 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    width: 1440px;
+    height: 1024px;
+    background-color: #f4f3f3;
+}
+.leftside{
+    width: 720px;
+    height:1024px;
+    position: absolute;
+    left:0px;
+    top:0px;
+    background-color:#faf8fc
+}
+.logo{
+    background-image: url(images/qrcode\ 2.png);
+width: 140px;
+height:30px;
+left:100px;
+top:57px;
+position: absolute;
+}
+img{
+    position:absolute;
+    width:429px;
+    height: 390px;
+    left:123px;
+    top: 149px
+}
+h2{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left:280px;
+    top: 579px;
+    font-family: Manrope;
+    font-style: normal;
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 49px;
+    color: #4b296b;
+}
+p{
+    position: absolute;
+    width: 545px;
+    height:99px;
+    left:87px;
+    top:668px;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: 400px;
+    font-size:24px;
+    line-height: 33px;
+    text-align: center;
+    color:#5e5e5f;
+
+}
+ .left{
+    position:absolute;
+    width:270px;
+    height:49px;
+    left:774px;
+    top:87px;
+    font-family: Manrope;
+    font-style: normal;
+    font: weight 600px;
+    font-size: 36px;
+    line-height: 49px;
+    color:#5e5e5f
+  }
+  .signup{
+    position: absolute;
+    width:556px;
+    height:393px;
+    left:771px;
+    top: 178px;
+
+  }
+   .signup label{
+    font-family: Manrope;
+    font-style: normal;
+    font-weight:400;
+    font-size:16px;
+    line-height:22px;
+    color: #5e5e5f;
+  }
+  .signup input{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+    gap:140px;
+    width:546px;
+    height: 43px;
+    background-color: #ffffff;
+    border: px;
+    border-color: rgba(29, 35, 23, 0.5);
+    border-radius:8px;
+    justify-content: space-between;
+  }
+   .rid{
+    position:absolute;
+    width:343px;
+    height:22px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size:16px;
+    line-height: 22px;
+    color: #5e5e5f;
+  }
+ 
+  tr.top{
+    margin-top: 200px;
+  }
+  button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding:16px 8px;
+    gap:10px;
+    position: absolute;
+    width: 546px;
+    height: 64px;
+    left:771px;
+    top: 695px;
+background-color: #4b296b;
+border-radius: 8px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 17px;
+letter-spacing: 0.005em;
+color: #ffffff;
+  }
+  
+.checkbox{
+    width:402px;
+    height:38px;
+    position:absolute;
+    left:784px;
+    top:785px;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 400;
+    color:#5e5e5f;
+    font-family: 'Manrope';
+    font-style: normal;
+
+     
+}
+.checkbox input{
+    position: absolute;
+    width:24px;
+    height: 24px;
+    border-color: solid #8f61f3;
+    box-sizing: border-box;
+    
+ 
+}
+.end{
+    position: absolute;
+    width:280px;
+    height:22px;
+    left:680px;
+    top: 300px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    letter-spacing: 0.2em;
+    color: #5e5e5f;
+}
+
+
+
